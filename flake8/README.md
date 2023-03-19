@@ -1,0 +1,6 @@
+### Установка "flake8" в Pycharm:
+
+- Установить зависимости из requirements.txt
+- Дополнить при необходимости файл setup.cfg и положить в корень проекта setup.cfg
+- Добавить flake8 в плагин Watchers для мнгновенного анализа файлов проекта.
+![flake8_watchers.png](img%2Fflake8_watchers.png)
