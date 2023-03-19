@@ -1,1 +1,1 @@
-Для дальнейшей установки и настройки black и flake8 необходимо установить плагин File Watcher в Pycharm IDE.
+Для установки и настройки black и flake8 установить плагин File Watcher в Pycharm IDE.
