@@ -3,4 +3,6 @@
 ```pip install isort==<need_version>``` 
 
 - Положить в корень проекта конфиг ".isort.cfg", при необходимости дополнить.
+
+- Перейти в настройки "Settings"(можно сочетанием клавиш <ctr+alt+s>)
 ![isort.png](img%2Fisort.png)
