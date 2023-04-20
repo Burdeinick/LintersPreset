@@ -7,5 +7,12 @@
 
 - Положить в корень проекта конфиг ".flake8.cfg", при необходимости дополнить.
 
+
+Arguments со скрина:
+```$FilePath$ --config $ContentRoot$/.flake8.cfg```
+
+Output filters:
+```$FILE_PATH$:$LINE$:$COLUMN$: $MESSAGE$```
+
 - Перейти в настройки "Settings"(можно сочетанием клавиш <ctr+alt+s>)
 ![flake8.png](img%2Fflake8.png)
